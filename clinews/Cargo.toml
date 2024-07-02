@@ -1,0 +1,10 @@
+[package]
+name = "clinews"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ureq = "2.9.7"
+serde_json = "1.0.120"
+colour = "2.1.0"
+serde = {version = "1.0.203", features = ["derive"]}
