@@ -1,0 +1,13 @@
+/home/jacob/Documents/GitHub/Learning-rust/clinews/target/debug/deps/libtoml-21227ad125a5830c.rmeta: /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/lib.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/map.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/value.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/de.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/ser.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/macros.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/edit.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/fmt.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/table.rs
+
+/home/jacob/Documents/GitHub/Learning-rust/clinews/target/debug/deps/toml-21227ad125a5830c.d: /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/lib.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/map.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/value.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/de.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/ser.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/macros.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/edit.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/fmt.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/table.rs
+
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/lib.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/map.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/value.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/de.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/ser.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/macros.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/edit.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/fmt.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.14/src/table.rs:

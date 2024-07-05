@@ -1,0 +1,11 @@
+/home/jacob/Documents/GitHub/Learning-rust/clinews/target/debug/deps/libtinyvec-a4c903d1819c9a4c.rmeta: /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/lib.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/array.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/array/generated_impl.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/arrayvec.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/arrayvec_drain.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/slicevec.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/tinyvec.rs
+
+/home/jacob/Documents/GitHub/Learning-rust/clinews/target/debug/deps/tinyvec-a4c903d1819c9a4c.d: /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/lib.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/array.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/array/generated_impl.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/arrayvec.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/arrayvec_drain.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/slicevec.rs /home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/tinyvec.rs
+
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/lib.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/array.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/array/generated_impl.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/arrayvec.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/arrayvec_drain.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/slicevec.rs:
+/home/jacob/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.1/src/tinyvec.rs:
